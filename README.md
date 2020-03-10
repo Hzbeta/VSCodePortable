@@ -11,15 +11,19 @@ run vscode portable with custom envs and make it auto update
 
 ## Configuration
 
-File directory structure
+File directory structure example
 
+```
+VSCODE
 │  VSCode.exe
 │  VSCode.ini
+│
 ├─Portable
 │  ├─jdk
 │  │  └─bin
 │  └─node
 └─VSCode
+```
 
 To add
 
